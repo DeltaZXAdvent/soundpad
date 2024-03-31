@@ -1,0 +1,109 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BUFSIZ	/usr/include/stdio.h	127;"	d
+BUFSIZ	/usr/include/stdio.h	129;"	d
+EOF	/usr/include/stdio.h	124;"	d
+FILE	/usr/include/stdio.h	/^typedef __FILE FILE;$/;"	t
+FILENAME_MAX	/usr/include/stdio.h	139;"	d
+FILENAME_MAX	/usr/include/stdio.h	141;"	d
+FOPEN_MAX	/usr/include/stdio.h	133;"	d
+FOPEN_MAX	/usr/include/stdio.h	135;"	d
+L_ctermid	/usr/include/stdio.h	786;"	d
+L_cuserid	/usr/include/stdio.h	783;"	d
+L_tmpnam	/usr/include/stdio.h	145;"	d
+L_tmpnam	/usr/include/stdio.h	147;"	d
+P_tmpdir	/usr/include/stdio.h	151;"	d
+SEEK_CUR	/usr/include/stdio.h	158;"	d
+SEEK_END	/usr/include/stdio.h	161;"	d
+SEEK_SET	/usr/include/stdio.h	155;"	d
+TMP_MAX	/usr/include/stdio.h	164;"	d
+_FSTDIO	/usr/include/stdio.h	31;"	d
+_IOFBF	/usr/include/stdio.h	120;"	d
+_IOLBF	/usr/include/stdio.h	121;"	d
+_IONBF	/usr/include/stdio.h	122;"	d
+_OFF_T_DECLARED	/usr/include/stdio.h	77;"	d
+_SSIZE_T_DECLARED	/usr/include/stdio.h	82;"	d
+_STDIO_H_	/usr/include/stdio.h	27;"	d
+_VA_LIST_DEFINED	/usr/include/stdio.h	47;"	d
+__FILE_defined	/usr/include/stdio.h	67;"	d
+__SAPP	/usr/include/stdio.h	96;"	d
+__SCLE	/usr/include/stdio.h	103;"	d
+__SEOF	/usr/include/stdio.h	93;"	d
+__SERR	/usr/include/stdio.h	94;"	d
+__SL64	/usr/include/stdio.h	105;"	d
+__SLBF	/usr/include/stdio.h	87;"	d
+__SMBF	/usr/include/stdio.h	95;"	d
+__SNBF	/usr/include/stdio.h	88;"	d
+__SNLK	/usr/include/stdio.h	108;"	d
+__SNPT	/usr/include/stdio.h	99;"	d
+__SOFF	/usr/include/stdio.h	100;"	d
+__SOPT	/usr/include/stdio.h	98;"	d
+__SORD	/usr/include/stdio.h	101;"	d
+__SRD	/usr/include/stdio.h	89;"	d
+__SRW	/usr/include/stdio.h	92;"	d
+__SSTR	/usr/include/stdio.h	97;"	d
+__SWID	/usr/include/stdio.h	109;"	d
+__SWR	/usr/include/stdio.h	90;"	d
+__VALIST	/usr/include/stdio.h	180;"	d
+__VALIST	/usr/include/stdio.h	182;"	d
+__need_NULL	/usr/include/stdio.h	34;"	d
+__need___va_list	/usr/include/stdio.h	39;"	d
+__need_size_t	/usr/include/stdio.h	33;"	d
+__result_use_check	/usr/include/stdio.h	/^char *	tempnam (const char *, const char *) __malloc_like __result_use_check;$/;"	v
+__sclearerr	/usr/include/stdio.h	725;"	d
+__sfeof	/usr/include/stdio.h	723;"	d
+__sferror	/usr/include/stdio.h	724;"	d
+__sfileno	/usr/include/stdio.h	726;"	d
+__sgetc_r	/usr/include/stdio.h	/^_ELIDABLE_INLINE int __sgetc_r(struct _reent *__ptr, FILE *__p)$/;"	f
+__sgetc_r	/usr/include/stdio.h	687;"	d
+__sgetc_raw_r	/usr/include/stdio.h	658;"	d
+__sputc_r	/usr/include/stdio.h	/^_ELIDABLE_INLINE int __sputc_r(struct _reent *_ptr, int _c, FILE *_p) {$/;"	f
+__sputc_r	/usr/include/stdio.h	714;"	d
+__sputc_r	/usr/include/stdio.h	719;"	d
+__sputc_raw_r	/usr/include/stdio.h	705;"	d
+_getchar_unlocked	/usr/include/stdio.h	/^_getchar_unlocked(void)$/;"	f
+_putchar_unlocked	/usr/include/stdio.h	/^_putchar_unlocked(int _c)$/;"	f
+_stderr_r	/usr/include/stdio.h	172;"	d
+_stdin_r	/usr/include/stdio.h	170;"	d
+_stdout_r	/usr/include/stdio.h	171;"	d
+clearerr	/usr/include/stdio.h	732;"	d
+clearerr_unlocked	/usr/include/stdio.h	737;"	d
+close	/usr/include/stdio.h	/^  cookie_close_function_t *close;$/;"	m	struct:__anon1
+cookie_close_function_t	/usr/include/stdio.h	/^typedef int cookie_close_function_t(void *__cookie);$/;"	t
+cookie_io_functions_t	/usr/include/stdio.h	/^} cookie_io_functions_t;$/;"	t	typeref:struct:__anon1
+cookie_read_function_t	/usr/include/stdio.h	/^typedef ssize_t cookie_read_function_t(void *__cookie, char *__buf, size_t __n);$/;"	t
+cookie_seek_function_t	/usr/include/stdio.h	/^typedef int cookie_seek_function_t(void *__cookie, _off64_t *__off,$/;"	t
+cookie_seek_function_t	/usr/include/stdio.h	/^typedef int cookie_seek_function_t(void *__cookie, off_t *__off, int __whence);$/;"	t
+cookie_write_function_t	/usr/include/stdio.h	/^typedef ssize_t cookie_write_function_t(void *__cookie, const char *__buf,$/;"	t
+fast_putc	/usr/include/stdio.h	778;"	d
+feof	/usr/include/stdio.h	730;"	d
+feof_unlocked	/usr/include/stdio.h	735;"	d
+ferror	/usr/include/stdio.h	731;"	d
+ferror_unlocked	/usr/include/stdio.h	736;"	d
+fpos64_t	/usr/include/stdio.h	/^typedef _fpos64_t fpos64_t;$/;"	t
+fpos_t	/usr/include/stdio.h	/^typedef _fpos_t fpos_t;$/;"	t
+fropen	/usr/include/stdio.h	623;"	d
+fwopen	/usr/include/stdio.h	624;"	d
+getc	/usr/include/stdio.h	764;"	d
+getchar	/usr/include/stdio.h	766;"	d
+getchar	/usr/include/stdio.h	791;"	d
+getchar_unlocked	/usr/include/stdio.h	771;"	d
+getchar_unlocked	/usr/include/stdio.h	795;"	d
+off_t	/usr/include/stdio.h	/^typedef __off_t off_t;$/;"	t
+putc	/usr/include/stdio.h	765;"	d
+putchar	/usr/include/stdio.h	767;"	d
+putchar	/usr/include/stdio.h	792;"	d
+putchar_unlocked	/usr/include/stdio.h	772;"	d
+putchar_unlocked	/usr/include/stdio.h	796;"	d
+read	/usr/include/stdio.h	/^  cookie_read_function_t  *read;$/;"	m	struct:__anon1
+seek	/usr/include/stdio.h	/^  cookie_seek_function_t  *seek;$/;"	m	struct:__anon1
+ssize_t	/usr/include/stdio.h	/^typedef _ssize_t ssize_t;$/;"	t
+stderr	/usr/include/stdio.h	168;"	d
+stdin	/usr/include/stdio.h	166;"	d
+stdout	/usr/include/stdio.h	167;"	d
+va_list	/usr/include/stdio.h	/^typedef __gnuc_va_list va_list;$/;"	t
+write	/usr/include/stdio.h	/^  cookie_write_function_t *write;$/;"	m	struct:__anon1
